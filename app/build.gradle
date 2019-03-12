@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.wei_jt.image_doodle"
+        applicationId "com.github.wei_jt.image_edit_ecidi"
         minSdkVersion 27
         targetSdkVersion 28
         versionCode 1
